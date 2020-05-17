@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Demo</string>
+
+    <string name="NO_INTERNET_CONNECTION">NO INTERNET CONNECTION</string>
+    <string name="SERVER_ERROR">SERVER ERROR</string>
+    <string name="SEARCH_HERE">Search Here</string>
+
+
+
+</resources>
